@@ -10,7 +10,7 @@ Experimental results have shown that the proposed IndRNN is able to process very
 
 In this project, you can find few solutions developed using IndRNN.
 
-> NOTE: As mentioned above, the desired results can be achieved only if you have the patience to run over 5000 time steps. 
+> NOTE: As mentioned above, the desired results can be achieved only if you have the patience to run over ***5000 time steps***. 
 
 If you are in search of a *robust solution* and have the time and infrastructure, then this is where your search ends!
 
