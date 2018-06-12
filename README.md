@@ -8,14 +8,13 @@ In addition, all the neurons in an RNN layer are entangled together and their be
 
 Experimental results have shown that the proposed IndRNN is able to process very long sequences (over 5000 time steps), can be used to construct very deep networks (21 layers used in the experiment) and still be trained robustly.
 
-For more on this, please look [here](https://arxiv.org/abs/1803.04831)
+In this project, you can find few solutions developed using IndRNN.
 
-## IndRNN Code
+> NOTE: As mentioned above, the desired results can be achieved only if you have the patience to run over 5000 time steps. 
 
-IndRNN implementation in keras is taken from [here](https://github.com/titu1994/Keras-IndRNN)
+If you are in search of a *robust solution* and have the time and infrastructure, then this is where your search ends!
 
-In this project, you can find few solutions developed using IndRNN. 
-> NOTE: As mentioned above, the desired results can be achieved only if you are patient and willing to run over 5000 time steps. 
+- The original paper on this can be found [here](https://arxiv.org/abs/1803.04831)
 
-If you are in search of a robust solution and have the time and infrastructure, then this is where your search ends!
+- IndRNN implementation in keras is taken from [here](https://github.com/titu1994/Keras-IndRNN)
 
