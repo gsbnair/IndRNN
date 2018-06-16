@@ -12,9 +12,10 @@ In this project, you can find few solutions developed using IndRNN.
 
 > NOTE: As mentioned above, the desired results can be achieved only if you have the patience to run over ***5000 time steps***. 
 
-If you are in search of a *robust solution* and have the time and infrastructure, then this is where your search ends!
+If you are in search of a *robust solution* and have the time and infrastructure, then this is one of the options!
 
 - The original paper on this can be found [here](https://arxiv.org/abs/1803.04831)
 
 - IndRNN implementation in keras is taken from [here](https://github.com/titu1994/Keras-IndRNN)
 
+IndRNN is used in some of the note books in the "`TimeSeries`" Repository.
