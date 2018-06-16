@@ -18,4 +18,4 @@ If you are in search of a *robust solution* and have the time and infrastructure
 
 - IndRNN implementation in keras is taken from [here](https://github.com/titu1994/Keras-IndRNN)
 
-IndRNN is used in some of the note books in the "`TimeSeries`" Repository.
+IndRNN is used in some of the note books in the "`TimeSeries`" [Repository](https://github.com/gsbnair/TimeSeries).
